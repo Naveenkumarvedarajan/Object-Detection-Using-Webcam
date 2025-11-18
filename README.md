@@ -27,8 +27,8 @@ STEP-9 Exit the loop if the 'q' key is pressed.
 STEP-10 Release the video capture and close any OpenCV windows (cap.release() and cv2.destroyAllWindows()).
 
 ## PROGRAM:
-#### NAME : STANLEY S
-#### REG.NO : 212223110054
+#### NAME : Naveen Kumar V
+#### REG.NO : 212223230140
 ```
 import cv2
 import numpy as np
